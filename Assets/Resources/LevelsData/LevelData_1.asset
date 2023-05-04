@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fc110df2dce66c4d9d08e7c476b3d03, type: 3}
+  m_Name: LevelData_1
+  m_EditorClassIdentifier: 
+  levelGoalsInfo:
+  - objectCount: 3
+    objectPrefab: {fileID: 962953322718899924, guid: d4fbe1c4922c6114c89897043d742ab5, type: 3}
+  - objectCount: 3
+    objectPrefab: {fileID: 2323925385049055820, guid: 8abe2c57c0277134490067e456810ad9, type: 3}
+  - objectCount: 3
+    objectPrefab: {fileID: 3823925878509829832, guid: b6911b6a2117e4a4d9bcfe66eb36d959, type: 3}
+  junkObjectsInfo: []
+  levelTime: 240

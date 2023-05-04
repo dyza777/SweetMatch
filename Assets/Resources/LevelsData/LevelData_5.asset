@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fc110df2dce66c4d9d08e7c476b3d03, type: 3}
+  m_Name: LevelData_5
+  m_EditorClassIdentifier: 
+  levelGoalsInfo:
+  - objectCount: 9
+    objectPrefab: {fileID: 962953322718899924, guid: d4fbe1c4922c6114c89897043d742ab5, type: 3}
+  - objectCount: 6
+    objectPrefab: {fileID: 7913223056894924039, guid: ac19c509c9d717c4b86d9067262ad63e, type: 3}
+  - objectCount: 6
+    objectPrefab: {fileID: 3028095646355469743, guid: 5a447c8aef660064b8be03133ca6eeb0, type: 3}
+  junkObjectsInfo:
+  - objectCount: 18
+    objectPrefab: {fileID: 5253640405556011067, guid: 2077c30cfa847bb41aabb70cce51b575, type: 3}
+  - objectCount: 9
+    objectPrefab: {fileID: 1715977369405657997, guid: 0c03fe6946be5054486cc889c080592d, type: 3}
+  - objectCount: 18
+    objectPrefab: {fileID: 7727169682732351258, guid: 314c48e0247e67d47bfc6199fb8fa26c, type: 3}
+  - objectCount: 12
+    objectPrefab: {fileID: 2456066814864001996, guid: 42d129db5b775bf4db727c47b2760278, type: 3}
+  - objectCount: 12
+    objectPrefab: {fileID: 4974124554496539876, guid: daa59344c1483c34ba0e9b32661c4c6e, type: 3}
+  - objectCount: 9
+    objectPrefab: {fileID: 2277632492787439425, guid: f01066acd6a171c429c2684856fe41a0, type: 3}
+  - objectCount: 18
+    objectPrefab: {fileID: 5076085858912009766, guid: c0edbe243e962d84490d88ae4ac716cb, type: 3}
+  levelTime: 150
